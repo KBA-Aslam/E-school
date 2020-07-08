@@ -1,0 +1,115 @@
+body{
+    font-family: Poppins;
+    font-style: normal;
+}
+.background-style{
+    background-color: #F0FFF0;
+}
+.bg-custom{
+    background-color: #F0FFF0;
+}
+.cat{
+    margin-top: 50px;
+}
+.cat2{
+
+}
+.cat img{
+    width: 100px;
+    height: 100px;
+    padding: 10px 20px;
+}
+.cat1, .cat, .cat3. .cat4{
+    width: 270px;
+    height: 270px;
+    background-color: yellow;
+    border: none;
+    border-radius: 10px;
+}
+.brand-size{
+    width: 198.07px;
+    height: 59px;
+}
+.head{
+    margin-top: 50px;
+}
+.head h1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+}
+.head img{
+    width: 554px;
+    height: 346px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+}
+.cate1{
+    padding-top: 40px;
+    margin: 50px 20px;
+    background-color: #F0FFF0;
+    border-radius: 0;
+    border-radius: 10px;
+}
+.cate1 img{
+    width: 70px;
+    height: 80px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-footer img{
+    height: 20px;
+    width: 18px;
+}
+.testi img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.testi-pera{
+    padding: 20px;
+}
+.testi{
+    margin: 100px;
+}
+.o-course h1{
+    margin: 100px;
+}
+.footer{
+    margin-top: 80px;
+    background-color: #282531;
+    color: white;
+    height: 350px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.footer-akam{
+    padding: 50px;
+}
+.testi h1{
+    margin: 100px;
+}
+a{
+    color: green;
+}
+footer{
+    background-color: #282531 ;
+    color: white;
+}
+.extra{
+    height: 300px;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    border-radius: 5%;
+}
+.sign-up{
+    width: 500px;
+}
+.sign-up h1{
+    color: white;
+}
